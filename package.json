@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha"
+    "json:server": "json-server --watch db.json"
   },
   "author": "Hannah O",
   "license": "ISC",

@@ -1,7 +1,8 @@
 const should = require("should");
 const request = require("request");
 const expect = require("chai").expect;
-const baseUrl = "http://localhost:3000/quotes";
+//const baseUrl = "http://localhost:3000/quotes";
+const baseUrl = "https://s3.us-east-2.amazonaws.com/www.jayzon.com/db.json"; 
 const util = require("util");
 
 
